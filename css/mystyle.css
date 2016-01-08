@@ -1,0 +1,27 @@
+.carousel-inner {
+  text-align: center;
+  img-responsive: 100%;
+}
+
+body {
+  padding-top: 50px;
+}
+.carousel-indicators {
+  bottom: 0;
+}
+
+.carousel-indicators .active {
+  background-color: #222;
+}
+
+.carousel-indicators li {
+  border-color: #222;
+}
+
+.peopleCarouselImg img {
+  width: auto;
+  height: 225px;
+  max-height: 225px;
+}
+
+.carousel-img img {
